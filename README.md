@@ -5,7 +5,7 @@ La aplicación implementa un CRUD completo utilizando Entity Framework Core y SQ
 
 ---
 
-## 🛠 Tecnologías utilizadas
+## Tecnologías utilizadas
 - .NET 7
 - ASP.NET Core Web API
 - Entity Framework Core
